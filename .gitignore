@@ -1,0 +1,10 @@
+sqlite_lesson_1_ex
+change_table.py
+/.idea
+/db_connection.py
+/inset_into_table.py
+/postgresql.py
+/select_from_table.py
+/update_table.py
+/commands.sql
+/table_creation.sql
